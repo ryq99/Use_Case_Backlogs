@@ -1,5 +1,5 @@
 # Use_Case_Backlogs
-This is the use case backlogs folder, find anything interesting here.
+This is the use case backlogs folder, the goal is to explore new use cases or try out new stuffs.
 
 
 My Profile 
