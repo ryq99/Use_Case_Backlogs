@@ -5,3 +5,5 @@ This is the use case backlogs folder, the goal is to explore new use cases or tr
 My Profile 
 - contains the interface for all productionalized projects
 - ecommerce project
+- music GAN
+- Pose Estimation
