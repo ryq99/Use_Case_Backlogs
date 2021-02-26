@@ -7,4 +7,5 @@ My Profile
 - ecommerce project
 - default credit card project 
 - music GAN
+- style GAN
 - Pose Estimation
