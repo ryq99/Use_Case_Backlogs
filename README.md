@@ -4,6 +4,7 @@ This is the use case backlogs folder, the goal is to explore new use cases or tr
 
 My Profile 
 - contains the interface for all productionalized projects
-- ecommerce project (left RFM)
+- ecommerce project
+- default credit card project 
 - music GAN
 - Pose Estimation
