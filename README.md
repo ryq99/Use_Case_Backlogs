@@ -9,3 +9,4 @@ My Profile
 - music GAN
 - style GAN
 - Pose Estimation
+- Image Super Resolution
